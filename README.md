@@ -10,11 +10,13 @@ ETS2 (Euro Truck Simulator 2) python telemetry reader for nlhans' [ets2-sdk-plug
 > > if there is no plugins folder inside of win_x64, make "plugins" folder and put a DLL file in it
 
 ## Usage 
-> 1. clone this repo. type it on terminal.
+> 1. clone this repo. type it on terminal.<br>
 > ```$ git clone https://github.com/comeeasy/ets2-python-telemetry.git```
 > 2. run code.<br>
-> ```$ cd ets-python-telemetry```<br>
-> ```$ python get.py```<br>
+> ```
+> $ cd ets-python-telemetry
+> $ python get.py
+> ```
 
 ## details
 
