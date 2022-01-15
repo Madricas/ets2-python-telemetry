@@ -14,7 +14,11 @@ ETS2 (Euro Truck Simulator 2) python telemetry reader for nlhans' [ets2-sdk-plug
 > ```shell
 > $ git clone https://github.com/comeeasy/ets2-python-telemetry.git
 > ```
-> 2. run code.<br>
+>
+> 2. run __Euro Truck Simulation2.exe__
+> <br><img src="https://github.com/comeeasy/ets2-python-telemetry/blob/master/imgs/start-sim.png" width="40%" height="30%" title="start ets2" alt="RubberDuck"></img><br>
+>
+> 3. run code.<br>
 > ```shell
 > $ cd ets-python-telemetry
 > $ python get.py
