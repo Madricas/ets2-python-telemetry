@@ -23,6 +23,8 @@ ETS2 (Euro Truck Simulator 2) python telemetry reader for nlhans' [ets2-sdk-plug
 > $ cd ets-python-telemetry
 > $ python get.py
 > ```
+> 
+> <br><img src="https://github.com/comeeasy/ets2-python-telemetry/blob/master/imgs/run.png" width="40%" height="30%" title="running display" alt="RubberDuck"></img><br>
 
 ## details
 
