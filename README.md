@@ -11,10 +11,10 @@ ETS2 (Euro Truck Simulator 2) python telemetry reader for nlhans' [ets2-sdk-plug
 
 ## Usage 
 > 1. clone this repo. type it on terminal.
-> > $ git clone https://github.com/comeeasy/ets2-python-telemetry.git
+> ```$ git clone https://github.com/comeeasy/ets2-python-telemetry.git```
 > 2. run code.
-> > $ cd ets-python-telemetry
-> > $ python get.py
+> ```$ cd ets-python-telemetry```
+> ```$ python get.py```
 
 ## details
 
